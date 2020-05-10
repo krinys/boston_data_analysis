@@ -29,5 +29,4 @@ this is link to my data analysis blog https://medium.com/@1468721508/three-pract
 
 ## result
 
-we found that the relationship between hygiene and scoring is extremely strong.Meanwhile,well,we don't need to worry about it.with increasing the number of beadroom,the house become cleaner.Then Facts have proved that take a communication with tourists, they will give you thumbs
-
+we could find that cleanliness and communication have a strong correlation with the review-rate.People like clean apartment.Meanwhile facts have proved that take a communication with tourists, they will give you thumbs.And remember to maintain your house,it is really vital.
