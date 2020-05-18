@@ -30,3 +30,6 @@ this is link to my data analysis blog https://medium.com/@1468721508/three-pract
 ## result
 
 we could find that cleanliness and communication have a strong correlation with the review-rate.People like clean apartment.Meanwhile facts have proved that take a communication with tourists, they will give you thumbs.And remember to maintain your house,it is really vital.
+## building a descision tree model
+
+
